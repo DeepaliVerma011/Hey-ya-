@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "680368041873",
+    "project_id": "heya-282b9",
+    "storage_bucket": "heya-282b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680368041873:android:8b2787cbc6beab731ab430",
+        "android_client_info": {
+          "package_name": "com.DeepaliVerma.heyya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680368041873-4i83f0svqhsdn3514m4iqn57qpp4scdf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DeepaliVerma.heyya",
+            "certificate_hash": "48b6edbadd12ee62ff5c05681ec5d0f1bd25b342"
+          }
+        },
+        {
+          "client_id": "680368041873-9u4vm2544k9bk4do2ffnd2heeet7dqhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb0AYiAz7ZmEsZ3CCX1Vo7fHrbWJssw3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680368041873-9u4vm2544k9bk4do2ffnd2heeet7dqhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
